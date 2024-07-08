@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro X1",
+    "category": "Electronics",
+    "price": 1299.99,
+    "brand": "TechCo"
+  },
+  {
+    "id": 2,
+    "name": "Coffee Maker Deluxe",
+    "category": "Appliances",
+    "price": 89.99,
+    "brand": "HomeBrew"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes AirMax",
+    "category": "Sports",
+    "price": 149.99,
+    "brand": "ActiveGear"
+  },
+  {
+    "id": 4,
+    "name": "Leather Backpack Vintage",
+    "category": "Fashion",
+    "price": 259.99,
+    "brand": "UrbanStyle"
+  },
+  {
+    "id": 5,
+    "name": "Wireless Headphones SoundWave",
+    "category": "Electronics",
+    "price": 199.99,
+    "brand": "AudioPro"
+  },
+  {
+    "id": 6,
+    "name": "Espresso Machine Barista",
+    "category": "Appliances",
+    "price": 399.99,
+    "brand": "CoffeeLuxe"
+  },
+  {
+    "id": 7,
+    "name": "Hiking Boots TrailMaster",
+    "category": "Sports",
+    "price": 119.99,
+    "brand": "OutdoorX"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses Aviator Classic",
+    "category": "Fashion",
+    "price": 99.99,
+    "brand": "SunShades"
+  },
+  {
+    "id": 9,
+    "name": "Smartwatch FitnessTrack",
+    "category": "Electronics",
+    "price": 249.99,
+    "brand": "FitLife"
+  },
+  {
+    "id": 10,
+    "name": "Blender PowerMix",
+    "category": "Appliances",
+    "price": 69.99,
+    "brand": "KitchenAid"
+  }
+]
